@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "maps": [
+    {
+      "id": "crimea",
+      "name": "Крым",
+      "version": "2026-10-01",
+      "data_timestamp": "2026-10-01T20:22:06Z",
+      "url": "https://github.com/8omnipotent8/ugodya-map-data/releases/download/map-2026-10-01/crimea.pmtiles",
+      "size_bytes": 160916779,
+      "sha256": "82e62780130788b0b85bbbe613053ac6ea9d17e797ec41d0bd84cc1f211ebf78",
+      "format": "pmtiles",
+      "min_zoom": 0,
+      "max_zoom": 16
+    }
+  ]
+}
