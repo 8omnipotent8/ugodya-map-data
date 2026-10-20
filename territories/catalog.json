@@ -1,10 +1,31 @@
 {
   "schema": 1,
   "complete": true,
-  "revision": 1,
-  "min_app_build": 25,
+  "revision": 2,
+  "min_app_build": 26,
   "territory_count": 19,
-  "created_at": "2026-10-20T08:57:43.196Z",
+  "canonical_names": [
+    "ай-петри",
+    "алма-кермен",
+    "ано «крцрлисо»",
+    "бахчисарайское 1",
+    "бахчисарайское 2",
+    "бахчисарайское 3",
+    "вепрь",
+    "кермен",
+    "крымское лесоохотничье хозяйство",
+    "ламат",
+    "партизан",
+    "партнер - проект",
+    "тяга-сервис",
+    "ханфилд — участок 1",
+    "ханфилд — участок 2",
+    "ханфилд — участок 3",
+    "ханфилд — участок 4",
+    "ялтинское лесное хозяйство, участок 1",
+    "ялтинское лесное хозяйство, участок 2"
+  ],
+  "created_at": "2026-10-20T11:04:07.135Z",
   "files": [
     {
       "id": "ai-petri",
@@ -58,9 +79,9 @@
     {
       "id": "oou-bakhchisaray1",
       "asset": "import/oou-bakhchisaray1.geojson",
-      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/a2860afe9f74e6b055d8acb2495e913272c9fd9e953e44b7ffc8c276630b92a9.geojson",
+      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/89dbf46ce714c33b403f49036895b71643a6851b3c7023e667c7859a1f685e80.geojson",
       "size_bytes": 140997,
-      "sha256": "a2860afe9f74e6b055d8acb2495e913272c9fd9e953e44b7ffc8c276630b92a9"
+      "sha256": "89dbf46ce714c33b403f49036895b71643a6851b3c7023e667c7859a1f685e80"
     },
     {
       "id": "partizan_276-u",
