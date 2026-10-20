@@ -1,0 +1,101 @@
+{
+  "schema": 1,
+  "complete": true,
+  "revision": 1,
+  "min_app_build": 25,
+  "territory_count": 19,
+  "created_at": "2026-10-20T08:57:43.196Z",
+  "files": [
+    {
+      "id": "ai-petri",
+      "asset": "import/ai-petri.geojson",
+      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/d466dcf35cb7a270383a6ba72743627cd239a526a5265c6535a46e29d8ad2b82.geojson",
+      "size_bytes": 127948,
+      "sha256": "d466dcf35cb7a270383a6ba72743627cd239a526a5265c6535a46e29d8ad2b82"
+    },
+    {
+      "id": "alma-kermen",
+      "asset": "import/alma-kermen.geojson",
+      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/9a5c836757bc2a689857dc679fd62667487b1d0cccff675f62077aa0a5cf59b4.geojson",
+      "size_bytes": 20508,
+      "sha256": "9a5c836757bc2a689857dc679fd62667487b1d0cccff675f62077aa0a5cf59b4"
+    },
+    {
+      "id": "bakhchisaray_2_3_276-u",
+      "asset": "import/bakhchisaray_2_3_276-U.geojson",
+      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/00e8843455a5cce8ff5fd94d3c7d13deaad6b98e9d236254a4453b8a7d9a385a.geojson",
+      "size_bytes": 108905,
+      "sha256": "00e8843455a5cce8ff5fd94d3c7d13deaad6b98e9d236254a4453b8a7d9a385a"
+    },
+    {
+      "id": "crimean_loh_hanfield",
+      "asset": "import/crimean_loh_hanfield.geojson",
+      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/b366f93817b23db8cb59babaa9e27b8073848494ff9ae886534c36079e40b993.geojson",
+      "size_bytes": 126134,
+      "sha256": "b366f93817b23db8cb59babaa9e27b8073848494ff9ae886534c36079e40b993"
+    },
+    {
+      "id": "kermen",
+      "asset": "import/kermen.geojson",
+      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/e94fbeba1bd10c7a1fd5140f08093b8fc27a1b7578c1424458c8537805a7f6d2.geojson",
+      "size_bytes": 32469,
+      "sha256": "e94fbeba1bd10c7a1fd5140f08093b8fc27a1b7578c1424458c8537805a7f6d2"
+    },
+    {
+      "id": "krcrliso",
+      "asset": "import/krcrliso.geojson",
+      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/46d714c98c004955c45fa04deb35ff64e7fcaf72753314e15bc9d41dec22bf63.geojson",
+      "size_bytes": 71408,
+      "sha256": "46d714c98c004955c45fa04deb35ff64e7fcaf72753314e15bc9d41dec22bf63"
+    },
+    {
+      "id": "lamat",
+      "asset": "import/lamat.geojson",
+      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/7c66ee4647bc62c79378f2e6b8091fc3a49ba9078f7272a168a31e7e0eb6cb9b.geojson",
+      "size_bytes": 18707,
+      "sha256": "7c66ee4647bc62c79378f2e6b8091fc3a49ba9078f7272a168a31e7e0eb6cb9b"
+    },
+    {
+      "id": "oou-bakhchisaray1",
+      "asset": "import/oou-bakhchisaray1.geojson",
+      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/a2860afe9f74e6b055d8acb2495e913272c9fd9e953e44b7ffc8c276630b92a9.geojson",
+      "size_bytes": 140997,
+      "sha256": "a2860afe9f74e6b055d8acb2495e913272c9fd9e953e44b7ffc8c276630b92a9"
+    },
+    {
+      "id": "partizan_276-u",
+      "asset": "import/partizan_276-U.geojson",
+      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/1631366c8aa8596b9c9e4cc182991bfea441d3b767b60557ce95ac53c3bade41.geojson",
+      "size_bytes": 21938,
+      "sha256": "1631366c8aa8596b9c9e4cc182991bfea441d3b767b60557ce95ac53c3bade41"
+    },
+    {
+      "id": "partner-proekt",
+      "asset": "import/partner-proekt.geojson",
+      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/c85e053604abd61e935b8c90bcec904d17ab421903286e3f86ce44a6b599beeb.geojson",
+      "size_bytes": 46776,
+      "sha256": "c85e053604abd61e935b8c90bcec904d17ab421903286e3f86ce44a6b599beeb"
+    },
+    {
+      "id": "tyaga-service",
+      "asset": "import/tyaga-service.geojson",
+      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/fb1241d490f7cc53d802abb48c813daa85f6cee3f72d1e7b2a0df82b3ed15a2c.geojson",
+      "size_bytes": 108791,
+      "sha256": "fb1241d490f7cc53d802abb48c813daa85f6cee3f72d1e7b2a0df82b3ed15a2c"
+    },
+    {
+      "id": "vepr",
+      "asset": "import/vepr.geojson",
+      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/90df6ba6c2dc83798ec8619e848125f99730692138c13e0cf449b6a67bef9f12.geojson",
+      "size_bytes": 30156,
+      "sha256": "90df6ba6c2dc83798ec8619e848125f99730692138c13e0cf449b6a67bef9f12"
+    },
+    {
+      "id": "yalta_forestry_1_2",
+      "asset": "import/yalta_forestry_1_2.geojson",
+      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/0e0ac6b137e7ba4f18ffcc22573103bc04cc5c112b2be75a32ac3cf391932d46.geojson",
+      "size_bytes": 72025,
+      "sha256": "0e0ac6b137e7ba4f18ffcc22573103bc04cc5c112b2be75a32ac3cf391932d46"
+    }
+  ]
+}
