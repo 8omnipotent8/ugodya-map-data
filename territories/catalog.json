@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "complete": true,
-  "revision": 2,
+  "revision": 3,
   "min_app_build": 26,
   "territory_count": 19,
   "canonical_names": [
@@ -25,7 +25,7 @@
     "ялтинское лесное хозяйство, участок 1",
     "ялтинское лесное хозяйство, участок 2"
   ],
-  "created_at": "2026-10-20T11:04:07.135Z",
+  "created_at": "2026-10-21T09:11:20.674Z",
   "files": [
     {
       "id": "ai-petri",
@@ -44,9 +44,9 @@
     {
       "id": "bakhchisaray_2_3_276-u",
       "asset": "import/bakhchisaray_2_3_276-U.geojson",
-      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/00e8843455a5cce8ff5fd94d3c7d13deaad6b98e9d236254a4453b8a7d9a385a.geojson",
+      "url": "https://raw.githubusercontent.com/8omnipotent8/ugodya-map-data/main/territories/files/d232a228d03a4d5f0504a36f7bad2c2bb69759e6de113a3ce89155fea3b61b7b.geojson",
       "size_bytes": 108905,
-      "sha256": "00e8843455a5cce8ff5fd94d3c7d13deaad6b98e9d236254a4453b8a7d9a385a"
+      "sha256": "d232a228d03a4d5f0504a36f7bad2c2bb69759e6de113a3ce89155fea3b61b7b"
     },
     {
       "id": "crimean_loh_hanfield",
